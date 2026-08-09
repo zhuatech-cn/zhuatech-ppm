@@ -54,3 +54,7 @@ docker compose up --build
 | ![微信咨询二维码一](docs/images/zhuatech-wechat-consulting.png) | ![微信咨询二维码二](docs/images/zhuatech-wechat-consulting-2.png) |
 
 搜索词：PPM 源码、项目组合管理系统、项目资源管理、Java PPM、Vue 项目管理、知华科技。
+
+## 项目组合资源分配
+
+新增 `POST /api/ppm/insights/portfolio-capacity-allocation`，按强制项目、战略得分和优先级分配有限 FTE，返回每项工作的 `FUNDED / PARTIAL / WAITLIST` 状态、资源利用率及 `BALANCED / REBALANCE` 决策，支持组合层资源取舍。
