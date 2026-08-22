@@ -1,4 +1,4 @@
-/* Copyright 2026 上海如静知华信息科技有限公司 */
+/* Copyright 2026 上海如静知华信息科技有限公司 · https://www.zhuatech.cn/ */
 export const domain={
  code:'PPM',systemName:'项目组合管理系统',englishName:'PROJECT PORTFOLIO MANAGEMENT',
  theme:{primary:'#4056a1',dark:'#24305e',accent:'#d37737'},
