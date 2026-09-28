@@ -1,5 +1,7 @@
 # 知华 PPM：把项目、预算和资源放在同一张图上
 
+[简体中文](README.md) | [English](README.en.md)
+
 [![ZhuaTech](https://img.shields.io/badge/ZhuaTech-PPM-4056a1)](https://www.zhuatech.cn/) [![Backend](https://img.shields.io/badge/backend-Spring_Boot-6db33f)](backend/) [![Frontend](https://img.shields.io/badge/frontend-Vue_3-42b883)](frontend/) [![Non-commercial](https://img.shields.io/badge/use-personal_non--commercial-d37737)](LICENSE)
 
 ZhuaTech PPM 是知华科技（上海如静知华信息科技有限公司）面向企业项目组合治理场景发布的社区源码版。它不只记录任务，而是围绕“该投什么、何时交付、资源是否够、风险是否可控”组织数据。了解产品与定制服务：[知华科技官网](https://www.zhuatech.cn/)。
